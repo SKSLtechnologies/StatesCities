@@ -1,0 +1,365 @@
+﻿[
+	{
+		"name": "Mumbai"
+	},
+	{
+		"name": "Pune"
+	},
+	{
+		"name": "Nagpur"
+	},
+	{
+		"name": "Thane"
+	},
+	{
+		"name": "Nashik"
+	},
+	{
+		"name": "Kalyan-Dombivali"
+	},
+	{
+		"name": "Vasai-Virar"
+	},
+	{
+		"name": "Solapur"
+	},
+	{
+		"name": "Mira-Bhayandar"
+	},
+	{
+		"name": "Bhiwandi"
+	},
+	{
+		"name": "Amravati"
+	},
+	{
+		"name": "Nanded-Waghala"
+	},
+	{
+		"name": "Sangli"
+	},
+	{
+		"name": "Malegaon"
+	},
+	{
+		"name": "Akola"
+	},
+	{
+		"name": "Latur"
+	},
+	{
+		"name": "Dhule"
+	},
+	{
+		"name": "Ahmednagar"
+	},
+	{
+		"name": "Ichalkaranji"
+	},
+	{
+		"name": "Parbhani"
+	},
+	{
+		"name": "Panvel"
+	},
+	{
+		"name": "Yavatmal"
+	},
+	{
+		"name": "Achalpur"
+	},
+	{
+		"name": "Osmanabad"
+	},
+	{
+		"name": "Nandurbar"
+	},
+	{
+		"name": "Satara"
+	},
+	{
+		"name": "Wardha"
+	},
+	{
+		"name": "Udgir"
+	},
+	{
+		"name": "Aurangabad"
+	},
+	{
+		"name": "Amalner"
+	},
+	{
+		"name": "Akot"
+	},
+	{
+		"name": "Pandharpur"
+	},
+	{
+		"name": "Shrirampur"
+	},
+	{
+		"name": "Parli"
+	},
+	{
+		"name": "Washim"
+	},
+	{
+		"name": "Ambejogai"
+	},
+	{
+		"name": "Manmad"
+	},
+	{
+		"name": "Ratnagiri"
+	},
+	{
+		"name": "Uran Islampur"
+	},
+	{
+		"name": "Pusad"
+	},
+	{
+		"name": "Sangamner"
+	},
+	{
+		"name": "Shirpur-Warwade"
+	},
+	{
+		"name": "Malkapur"
+	},
+	{
+		"name": "Wani"
+	},
+	{
+		"name": "Lonavla"
+	},
+	{
+		"name": "Talegaon Dabhade"
+	},
+	{
+		"name": "Anjangaon"
+	},
+	{
+		"name": "Umred"
+	},
+	{
+		"name": "Palghar"
+	},
+	{
+		"name": "Shegaon"
+	},
+	{
+		"name": "Ozar"
+	},
+	{
+		"name": "Phaltan"
+	},
+	{
+		"name": "Yevla"
+	},
+	{
+		"name": "Shahade"
+	},
+	{
+		"name": "Vita"
+	},
+	{
+		"name": "Umarkhed"
+	},
+	{
+		"name": "Warora"
+	},
+	{
+		"name": "Pachora"
+	},
+	{
+		"name": "Tumsar"
+	},
+	{
+		"name": "Manjlegaon"
+	},
+	{
+		"name": "Sillod"
+	},
+	{
+		"name": "Arvi"
+	},
+	{
+		"name": "Nandura"
+	},
+	{
+		"name": "Vaijapur"
+	},
+	{
+		"name": "Wadgaon Road"
+	},
+	{
+		"name": "Sailu"
+	},
+	{
+		"name": "Murtijapur"
+	},
+	{
+		"name": "Tasgaon"
+	},
+	{
+		"name": "Mehkar"
+	},
+	{
+		"name": "Yawal"
+	},
+	{
+		"name": "Pulgaon"
+	},
+	{
+		"name": "Nilanga"
+	},
+	{
+		"name": "Wai"
+	},
+	{
+		"name": "Umarga"
+	},
+	{
+		"name": "Paithan"
+	},
+	{
+		"name": "Rahuri"
+	},
+	{
+		"name": "Nawapur"
+	},
+	{
+		"name": "Tuljapur"
+	},
+	{
+		"name": "Morshi"
+	},
+	{
+		"name": "Purna"
+	},
+	{
+		"name": "Satana"
+	},
+	{
+		"name": "Pathri"
+	},
+	{
+		"name": "Sinnar"
+	},
+	{
+		"name": "Uchgaon"
+	},
+	{
+		"name": "Uran"
+	},
+	{
+		"name": "Pen"
+	},
+	{
+		"name": "Karjat"
+	},
+	{
+		"name": "Manwath"
+	},
+	{
+		"name": "Partur"
+	},
+	{
+		"name": "Sangole"
+	},
+	{
+		"name": "Mangrulpir"
+	},
+	{
+		"name": "Risod"
+	},
+	{
+		"name": "Shirur"
+	},
+	{
+		"name": "Savner"
+	},
+	{
+		"name": "Sasvad"
+	},
+	{
+		"name": "Pandharkaoda"
+	},
+	{
+		"name": "Talode"
+	},
+	{
+		"name": "Shrigonda"
+	},
+	{
+		"name": "Shirdi"
+	},
+	{
+		"name": "Raver"
+	},
+	{
+		"name": "Mukhed"
+	},
+	{
+		"name": "Rajura"
+	},
+	{
+		"name": "Vadgaon Kasba"
+	},
+	{
+		"name": "Tirora"
+	},
+	{
+		"name": "Mahad"
+	},
+	{
+		"name": "Lonar"
+	},
+	{
+		"name": "Sawantwadi"
+	},
+	{
+		"name": "Pathardi"
+	},
+	{
+		"name": "Pauni"
+	},
+	{
+		"name": "Ramtek"
+	},
+	{
+		"name": "Mul"
+	},
+	{
+		"name": "Soyagaon"
+	},
+	{
+		"name": "Mangalvedhe"
+	},
+	{
+		"name": "Narkhed"
+	},
+	{
+		"name": "Shendurjana"
+	},
+	{
+		"name": "Patur"
+	},
+	{
+		"name": "Mhaswad"
+	},
+	{
+		"name": "Loha"
+	},
+	{
+		"name": "Nandgaon"
+	},
+	{
+		"name": "Warud"
+	},
+	{
+		"name": ""
+	}
+]
