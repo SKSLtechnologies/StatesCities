@@ -1,0 +1,338 @@
+[
+	{
+		"name": "Chennai"
+	},
+	{
+		"name": "Coimbatore"
+	},
+	{
+		"name": "Madurai"
+	},
+	{
+		"name": "Tiruchirappalli"
+	},
+	{
+		"name": "Salem"
+	},
+	{
+		"name": "Tirunelveli"
+	},
+	{
+		"name": "Tiruppur"
+	},
+	{
+		"name": "Ranipet"
+	},
+	{
+		"name": "Nagercoil"
+	},
+	{
+		"name": "Thanjavur"
+	},
+	{
+		"name": "Vellore"
+	},
+	{
+		"name": "Kancheepuram"
+	},
+	{
+		"name": "Erode"
+	},
+	{
+		"name": "Tiruvannamalai"
+	},
+	{
+		"name": "Pollachi"
+	},
+	{
+		"name": "Rajapalayam"
+	},
+	{
+		"name": "Sivakasi"
+	},
+	{
+		"name": "Pudukkottai"
+	},
+	{
+		"name": "Neyveli (TS)"
+	},
+	{
+		"name": "Nagapattinam"
+	},
+	{
+		"name": "Viluppuram"
+	},
+	{
+		"name": "Tiruchengode"
+	},
+	{
+		"name": "Vaniyambadi"
+	},
+	{
+		"name": "Theni Allinagaram"
+	},
+	{
+		"name": "Udhagamandalam"
+	},
+	{
+		"name": "Aruppukkottai"
+	},
+	{
+		"name": "Paramakudi"
+	},
+	{
+		"name": "Arakkonam"
+	},
+	{
+		"name": "Virudhachalam"
+	},
+	{
+		"name": "Srivilliputhur"
+	},
+	{
+		"name": "Tindivanam"
+	},
+	{
+		"name": "Virudhunagar"
+	},
+	{
+		"name": "Karur"
+	},
+	{
+		"name": "Valparai"
+	},
+	{
+		"name": "Sankarankovil"
+	},
+	{
+		"name": "Tenkasi"
+	},
+	{
+		"name": "Palani"
+	},
+	{
+		"name": "Pattukkottai"
+	},
+	{
+		"name": "Tirupathur"
+	},
+	{
+		"name": "Ramanathapuram"
+	},
+	{
+		"name": "Udumalaipettai"
+	},
+	{
+		"name": "Gobichettipalayam"
+	},
+	{
+		"name": "Thiruvarur"
+	},
+	{
+		"name": "Thiruvallur"
+	},
+	{
+		"name": "Panruti"
+	},
+	{
+		"name": "Namakkal"
+	},
+	{
+		"name": "Thirumangalam"
+	},
+	{
+		"name": "Vikramasingapuram"
+	},
+	{
+		"name": "Nellikuppam"
+	},
+	{
+		"name": "Rasipuram"
+	},
+	{
+		"name": "Tiruttani"
+	},
+	{
+		"name": "Nandivaram-Guduvancheri"
+	},
+	{
+		"name": "Periyakulam"
+	},
+	{
+		"name": "Pernampattu"
+	},
+	{
+		"name": "Vellakoil"
+	},
+	{
+		"name": "Sivaganga"
+	},
+	{
+		"name": "Vadalur"
+	},
+	{
+		"name": "Rameshwaram"
+	},
+	{
+		"name": "Tiruvethipuram"
+	},
+	{
+		"name": "Perambalur"
+	},
+	{
+		"name": "Usilampatti"
+	},
+	{
+		"name": "Vedaranyam"
+	},
+	{
+		"name": "Sathyamangalam"
+	},
+	{
+		"name": "Puliyankudi"
+	},
+	{
+		"name": "Nanjikottai"
+	},
+	{
+		"name": "Thuraiyur"
+	},
+	{
+		"name": "Sirkali"
+	},
+	{
+		"name": "Tiruchendur"
+	},
+	{
+		"name": "Periyasemur"
+	},
+	{
+		"name": "Sattur"
+	},
+	{
+		"name": "Vandavasi"
+	},
+	{
+		"name": "Tharamangalam"
+	},
+	{
+		"name": "Tirukkoyilur"
+	},
+	{
+		"name": "Oddanchatram"
+	},
+	{
+		"name": "Palladam"
+	},
+	{
+		"name": "Vadakkuvalliyur"
+	},
+	{
+		"name": "Tirukalukundram"
+	},
+	{
+		"name": "Uthamapalayam"
+	},
+	{
+		"name": "Surandai"
+	},
+	{
+		"name": "Sankari"
+	},
+	{
+		"name": "Shenkottai"
+	},
+	{
+		"name": "Vadipatti"
+	},
+	{
+		"name": "Sholingur"
+	},
+	{
+		"name": "Tirupathur"
+	},
+	{
+		"name": "Manachanallur"
+	},
+	{
+		"name": "Viswanatham"
+	},
+	{
+		"name": "Polur"
+	},
+	{
+		"name": "Panagudi"
+	},
+	{
+		"name": "Uthiramerur"
+	},
+	{
+		"name": "Thiruthuraipoondi"
+	},
+	{
+		"name": "Pallapatti"
+	},
+	{
+		"name": "Ponneri"
+	},
+	{
+		"name": "Lalgudi"
+	},
+	{
+		"name": "Natham"
+	},
+	{
+		"name": "Unnamalaikadai"
+	},
+	{
+		"name": "P.N.Patti"
+	},
+	{
+		"name": "Tharangambadi"
+	},
+	{
+		"name": "Tittakudi"
+	},
+	{
+		"name": "Pacode"
+	},
+	{
+		"name": "O' Valley"
+	},
+	{
+		"name": "Suriyampalayam"
+	},
+	{
+		"name": "Sholavandan"
+	},
+	{
+		"name": "Thammampatti"
+	},
+	{
+		"name": "Namagiripettai"
+	},
+	{
+		"name": "Peravurani"
+	},
+	{
+		"name": "Parangipettai"
+	},
+	{
+		"name": "Pudupattinam"
+	},
+	{
+		"name": "Pallikonda"
+	},
+	{
+		"name": "Sivagiri"
+	},
+	{
+		"name": "Punjaipugalur"
+	},
+	{
+		"name": "Padmanabhapuram"
+	},
+	{
+		"name": "Thirupuvanam"
+	}
+]
