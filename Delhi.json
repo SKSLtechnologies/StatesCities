@@ -1,1 +1,66 @@
-﻿[{"name":"Delhi"},{"name": "New Delhi"}]
+﻿[{"name":"Delhi"},{"name": "New Delhi"},{
+		"name": "Baghpat"
+	},
+	{
+		"name": "Bulandshahr"
+	},
+	{
+		"name": "Noida"
+	},
+	{
+		"name": "Ghaziabad"
+	},
+	{
+		"name": "Muzaffarnagar"
+	},
+	{
+		"name": "Meerut"
+	},
+	{
+		"name": "Hapur"
+	},
+	{
+		"name": "Bhiwani"
+	},
+	{
+		"name": "Faridabad"
+	},
+	{
+		"name": "Gurgaon"
+	},
+	{
+		"name": "Jhajjar (Jhajjar and Bahadurgarh)"
+	},
+	{
+		"name": "Mahendragarh"
+	},
+	{
+		"name": "Panipat"
+	},
+	{
+		"name": "Rewari"
+	},
+	{
+		"name": "Rohtak"
+	},
+	{
+		"name": "Sonipat"
+	},
+	{
+		"name": "Mewat"
+	},
+	{
+		"name": "Palwal"
+	},
+	{
+		"name": "Jind"
+	},
+	{
+		"name": "Karnal"
+	},
+	{
+		"name": "Alwar"
+	},
+	{
+		"name": "Bharatpur"
+	}]
